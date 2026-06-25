@@ -2,6 +2,7 @@
 
 # 👋 Hallo, ich bin Janet Burghardt
 
+
 Angehende Webentwicklerin | HTML • CSS • JavaScript
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -11,8 +12,10 @@ Angehende Webentwicklerin | HTML • CSS • JavaScript
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
 ## 👩‍💻 Über mich
 Ich bin angehende Webentwicklerin und erweitere meine Kenntnisse kontinuierlich in der Frontend-Entwicklung. Derzeit arbeite ich an verschiedenen Projekten mit HTML, CSS und JavaScript und bereite mich auf eine Ausbildung im IT-Bereich vor.
+
 
 ## 💻 Technologien
 
@@ -26,7 +29,6 @@ Ich bin angehende Webentwicklerin und erweitere meine Kenntnisse kontinuierlich 
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive-Design-5C2D91?style=for-the-badge)
 
-## 🚀 Projekte
 
 ## 🚀 Projekte
 
