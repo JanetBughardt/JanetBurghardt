@@ -14,8 +14,7 @@ Angehende Webentwicklerin | HTML • CSS • JavaScript
 
 
 ## 👩‍💻 Über mich
-Ich bin angehende Webentwicklerin und erweitere meine Kenntnisse kontinuierlich in der Frontend-Entwicklung. Derzeit arbeite ich an verschiedenen Projekten mit HTML, CSS und JavaScript und bereite mich auf eine Ausbildung im IT-Bereich vor.
-
+Ich bin angehende Webentwicklerin mit Schwerpunkt Frontend-Entwicklung. Aktuell erweitere ich meine Kenntnisse durch eigene Projekte und Teamprojekte mit HTML, CSS, JavaScript und Firebase. Mein Ziel ist eine Ausbildung im Bereich Softwareentwicklung bzw. Applikationsentwicklung.
 
 ## 💻 Technologien
 
@@ -35,7 +34,9 @@ Ich bin angehende Webentwicklerin und erweitere meine Kenntnisse kontinuierlich 
 - 🐉 **Pokédex** – https://janetbughardt.github.io/pokedex/
 - 📸 **Fotogram** – https://janetbughardt.github.io/fotogram/
 - 🍜 **Sakura Ramen** – https://janetbughardt.github.io/sakura-ramen/
+- 🤝 **[Join – Teamprojekt](https://hld2705.github.io/Join/)** – Aufgabenverwaltungs-Webanwendung (Developer Akademie)
 - 🌮 **El Pollo Poco** – (sobald online)
+
 
 ## 🤝 Teamprojekt
 
@@ -52,4 +53,4 @@ Mein Beitrag:
 
 ## 🎯 Ziel
 
-Ich suche eine Ausbildung im Bereich Softwareentwicklung bzw. Applikationsentwicklung und freue mich darauf, mein Wissen in einem Unternehmen weiter auszubauen.
+Ich suche eine Ausbildung im Bereich Softwareentwicklung bzw. Applikationsentwicklung und freue mich darauf, mein Wissen in einem Unternehmen weiter auszubauen. Ich freue mich darauf, mein Wissen in einem Unternehmen weiterzuentwickeln und praktische Erfahrungen in der Softwareentwicklung zu sammeln.
