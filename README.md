@@ -16,6 +16,13 @@ Angehende Webentwicklerin | HTML • CSS • JavaScript
 ## 👩‍💻 Über mich
 Ich bin angehende Webentwicklerin mit Schwerpunkt Frontend-Entwicklung. Aktuell erweitere ich meine Kenntnisse durch eigene Projekte und Teamprojekte mit HTML, CSS, JavaScript und Firebase. Mein Ziel ist eine Ausbildung im Bereich Softwareentwicklung bzw. Applikationsentwicklung.
 
+## 🌐 Live-Projekte
+
+- 🐉 **[Pokédex](https://janetbughardt.github.io/pokedex/)**
+- 📸 **[Fotogram](https://janetbughardt.github.io/fotogram/)**
+- 🍜 **[Sakura Ramen](https://janetbughardt.github.io/sakura-ramen/)**
+- 🤝 **[Join (Teamprojekt)](https://hld2705.github.io/Join/)**
+
 ## 💻 Technologien
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,7 +41,7 @@ Ich bin angehende Webentwicklerin mit Schwerpunkt Frontend-Entwicklung. Aktuell 
 - 🐉 **Pokédex** – https://janetbughardt.github.io/pokedex/
 - 📸 **Fotogram** – https://janetbughardt.github.io/fotogram/
 - 🍜 **Sakura Ramen** – https://janetbughardt.github.io/sakura-ramen/
-- 🤝 **[Join – Teamprojekt](https://hld2705.github.io/Join/)** – Aufgabenverwaltungs-Webanwendung (Developer Akademie)
+- 🤝 **[Join (Teamprojekt)](https://github.com/hld2705/Join)** – Aufgabenverwaltungs-Webanwendung (Developer Akademie)
 - 🌮 **El Pollo Poco** – (sobald online)
 
 
